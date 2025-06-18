@@ -14,7 +14,7 @@ Hello! I'm Ilkka, a passionate Software Developer with a strong focus on creatin
 
 ### 📚 Education
 
-- **MSc Information Networks** (2022 - 2024) - Aalto University
+- **MSc Information Networks** (2022 - 2025) - Aalto University
 - **BSc Information Networks** (2020 - 2022) - Aalto University
   - Dean's list (2020 - 2023)
   - Core fields of study: Software Engineering, Industrial Engineering, Quantum Technology
