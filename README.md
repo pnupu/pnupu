@@ -1,21 +1,16 @@
 # Ilkka Lappeteläinen
 
-## Software Developer
+I build web products and tools for developers, usually with TypeScript, React and Node.js. Lately, I have been exploring AI agents, Ethereum and the systems underneath them.
 
-Hello! I'm Ilkka, a passionate Software Developer with a strong focus on creating impactful solutions. My expertise lies in web development, particularly in JavaScript and React.js. I'm currently pursuing my Master's in Information Networks at Aalto University.
+## Selected work
 
-### 🌟 Core Competencies
+- [NPM MCP Generator](https://github.com/pnupu/npm-mcp-generator) — Turn npm package documentation and TypeScript definitions into tools that give AI assistants useful context.
+- [EthFlow](https://github.com/pnupu/eth-viz) — Explore Ethereum transactions as an interactive graph, built with React, D3, 1inch and Blockscout.
+- [Leash](https://github.com/pnupu/leash) — A Sepolia prototype for agent wallets, owner-approved purchases and bounded credit top-ups.
+- [A Linux kernel fix](https://github.com/torvalds/linux/commit/2cf81fc9505b148b1b70068303ea6ea4b1212403) — An upstream fix preventing integer overflow in packet transmission accounting, authored in September 2026.
 
-- **Web Development:** Proficient in JavaScript, HTML, CSS, and React.js. I have a knack for building responsive and user-friendly interfaces, ensuring a seamless user experience.
-- **Backend Development:** Experienced in Node.js, I excel in creating, optimizing, and maintaining robust APIs. My work includes developing a chat app for child welfare and optimizing algorithms for improved performance.
-- **Data Handling:** Skilled in developing data pipelines, particularly for public transport passenger counting, using technologies like Node.js, Pulsar, and Kubernetes.
-- **Full-Stack Projects:** Developed several full-stack applications using modern technologies like the T3-stack (Typescript, TailwindCSS, TRPC), in addition to React.js, Node.js, and Prisma.
-- **Hackathon Success:** A proven track record of success in hackathons, including Junction Connected and Junction 2022, where my teams won challenges. I led the development of a mobile app for BCG Platinion to gamify electricity saving and visualize carbon footprints.
+## A little background
 
-### 📚 Education
+I studied Information Networks at Aalto University and previously led Mankkaan Eräsudet, a local scout group in Espoo.
 
-- **MSc Information Networks** (2022 - 2025) - Aalto University
-- **BSc Information Networks** (2020 - 2022) - Aalto University
-  - Dean's list (2020 - 2023)
-  - Core fields of study: Software Engineering, Industrial Engineering, Quantum Technology
-- **Exchange Program** (January 2023 - May 2023) - National University of Singapore
+[LinkedIn](https://www.linkedin.com/in/lappetelainen/)
